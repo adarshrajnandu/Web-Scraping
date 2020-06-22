@@ -6,9 +6,8 @@
 ----
 ## Descripton
 
-This is mini project to scrap the web and automate a few websites
-
-Here I'll go through the following
+This is a mini project to scrap the web and automate a website using the
+following modules
 
 - webbrowser     : Comes with Python and opens a browser to a specific
 - Requests       : Downloads files and web pages from the Internet
